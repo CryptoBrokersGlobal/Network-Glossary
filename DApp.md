@@ -5,3 +5,5 @@
     A DApp can have frontend code and user interfaces written in any language 
     
     (just like an app) that can make calls to its backend.
+
+https://github.com/CryptoBrokersGlobal/polarity-dapp-docs
