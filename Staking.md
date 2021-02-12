@@ -1,6 +1,6 @@
 Staking: utilizing tokens native protocols for network validation, resulting in rewards to participants.
 
-  TurtleNetwork is a LPoS network. 
+  TurtleNetwork is an LPoS network. 
   
     Leased Proof of Stake:
       Users delegate their balance to a network generator (node) who
