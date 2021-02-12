@@ -1,4 +1,4 @@
-Alias: a short, easy to remember, name for an address. Each alias is a unique on the blockchain.
+*Alias*: a short, easy to remember, name for an address. Each alias is a unique on the blockchain.
 
     One address can have multiple aliases.
 
@@ -7,7 +7,7 @@ Alias: a short, easy to remember, name for an address. Each alias is a unique on
     An alias entry cannot be deleted.
 
 
-Alias Requirements:
+*Alias Requirements*:
 
 The length of an alias can be from 4 to 30 bytes (1 character can take up to 4 bytes).
 
@@ -22,7 +22,7 @@ The following characters are allowed:
     
 
     
-To create an Alias go to the top right corner of your Polarity client 
+*To create an Alias go to the top right corner of your Polarity client* 
 
     Click Alias
 
