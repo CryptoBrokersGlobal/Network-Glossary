@@ -6,7 +6,7 @@ The TurtleNetwork has two types of nodes: Generator and Validating.
      through the https://wallet.turtlenetwork.eu.
   
 Validating:
-    This node is not rewarded and only helps to keep the network more resilients. 
+    This node is not rewarded and only helps to keep the network more resilient. 
   
     Install TurtleNetwork Node
         https://documentation.turtlenetwork.eu/nodeowners/how-to-setup-a-new-node.html
