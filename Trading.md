@@ -9,5 +9,5 @@ you will have to follow these steps to reach your currency of choice.
       4. Click Sell and fill your order criteria
       5. Once order has filled now you have USDT
       6. Select your ideal pair (arrr/grlc/sent)
-      7. Click Buy and fill your order
+      7. Click Buy and fill your order criteria
       
