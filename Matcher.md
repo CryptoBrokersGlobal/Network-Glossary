@@ -1,0 +1,6 @@
+TurtleNetwork nodes contain an order matcher which is used to power the decentralized exchange — enabling asset trades that don’t require assets to be transferred from your blockchain account to a separate exchange. All operations within Polarity.Exchange are secure and validated by blockchain nodes. Any user can run an instance of the open source TurtleNetwork DEX and connect to Polarity.Exchange manually.
+
+      The matcher exposes its own REST API for accessing the order book and submitting orders. 
+      This allows users to implement any kind of trading UI or trading bots (refer to API.md)
+
+The reason behind incorporating the matcher technologu is to perform secure exchange of assets issued on TurtleNetwork blockchain. When a user sends an order to Matcher he doesn't transfer ownership of his money to anyone, his money remains on his account until the order is matched with a counter-order. The Matcher creates ExchangeTransaction while the blockchain guarantees that the transaction will be made on the conditions that are not worse than in the user's order. After the transaction is confirmed on blockchain, the user account's balances of assets are changed according to the amount, order execution price, and the Matcher fee.
